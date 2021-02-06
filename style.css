@@ -1,0 +1,15 @@
+*{
+    margin: 10px;
+    
+}
+
+#main{
+    background-color: bisque;
+   
+}
+
+#input-area{
+    align-items: center;
+    justify-content: center;
+
+}
